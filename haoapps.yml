@@ -1,4 +1,4 @@
-- android:
+android:
   - appId: wear.sprit.app
     appName: 手表精灵
     appDesc:
@@ -6,5 +6,5 @@
     vCode: 1
     vMsg:
     minSdk: 26
-    url: https://cdn.jsdelivr.net/gh/bvin/haoapps@1.0.2/wear-spirit.apk
-- wear:
+    url: https://cdn.jsdelivr.net/gh/bvin/haoapps/wear-spirit.apk
+wear:
