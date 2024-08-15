@@ -8,3 +8,11 @@ android:
     minSdk: 26
     url: https://cdn.jsdelivr.net/gh/bvin/haoapps/wear-spirit.apk
 wear:
+  - appId: wind.fun.weather
+    appName: 微风天气
+    appDesc:
+    vName: !!str 1.0
+    vCode: 1
+    vMsg:
+    minSdk: 30
+    url: https://cdn.jsdelivr.net/gh/bvin/haoapps/wearther.apk
