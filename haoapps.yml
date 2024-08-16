@@ -11,8 +11,24 @@ wear:
   - appId: wind.fun.weather
     appName: 微风天气
     appDesc:
+    vName: !!str 1.2
+    vCode: 2
+    vMsg:
+    minSdk: 30
+    url: https://cdn.jsdelivr.net/gh/bvin/haoapps/wearther.apk
+  - appId: wear.app.contacts
+    appName: 联系人管家
+    appDesc:
+    vName: !!str 1.0
+    vCode: 1
+    vMsg:
+    minSdk: 29
+    url: https://cdn.jsdelivr.net/gh/bvin/haoapps/contacts.apk
+  - appId: wear.recgas.app
+    appName: 加油Go
+    appDesc:
     vName: !!str 1.0
     vCode: 1
     vMsg:
     minSdk: 30
-    url: https://cdn.jsdelivr.net/gh/bvin/haoapps/wearther.apk
+    url: https://cdn.jsdelivr.net/gh/bvin/haoapps/recgas.apk
